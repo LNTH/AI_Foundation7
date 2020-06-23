@@ -5,8 +5,8 @@ Try to train a recommendation system using Matrix Factorisation (MF) and Neural 
 Dataset using: Movie Lens 100k.
 
 Descriptions:
-1. The dataset contains 3 dataframe: users, movies and ratings.
-2. The project's goal is using current ratings from RATINGS DATAFRAME to predict ratings for all movies from all user.
+1. The dataset contains 3 dataframes: users, movies and ratings.
+2. The project's goal is using current ratings from RATINGS DATAFRAME to predict ratings for all movies from all users.
 
 How to use:
 1. Clone my git and put everything on your Google Drive.
